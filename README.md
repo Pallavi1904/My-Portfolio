@@ -7,12 +7,7 @@ You can visit it live here: 👉 [My Portfolio](https://pallaviakolkar-portfolio
 
 ---
 
-## 📸 Preview  
-
-![Portfolio Screenshot](images/pallavi.jpg) <!-- Replace with an actual screenshot if possible -->
-
----
-## 📸 Screenshots 
+## 📸 Preview   
 
 ### 🏠 Home / Hero Section  
 ![Home Screenshot](screenshots/home.png)  
