@@ -9,8 +9,8 @@ You can visit it live here: 👉 [My Portfolio](https://pallaviakolkar-portfolio
 
 ## 📸 Preview   
 
-### 🏠 Home / Hero Section  
-![Home Screenshot](screenshots/home.png)  
+### 🏠 Home Section  
+![Home Screenshot](Images/ss1.png)  
 
 ### 🙋 About Me  
 ![About Screenshot](screenshots/about.png)  
