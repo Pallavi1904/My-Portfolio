@@ -12,6 +12,30 @@ You can visit it live here: 👉 [My Portfolio](https://pallaviakolkar-portfolio
 ![Portfolio Screenshot](images/pallavi.jpg) <!-- Replace with an actual screenshot if possible -->
 
 ---
+## 📸 Screenshots 
+
+### 🏠 Home / Hero Section  
+![Home Screenshot](screenshots/home.png)  
+
+### 🙋 About Me  
+![About Screenshot](screenshots/about.png)  
+
+### 📂 Projects Showcase  
+![Projects Screenshot](screenshots/projects.png)  
+
+### 🎓 Education Timeline  
+![Education Screenshot](screenshots/education.png)  
+
+### 🏆 Achievements & Certificates  
+![Achievements Screenshot](screenshots/achievements.png)  
+
+### 💼 Experience  
+![Experience Screenshot](screenshots/experience.png)  
+
+### 📬 Contact Section  
+![Contact Screenshot](screenshots/contact.png)  
+
+---
 
 ## 🚀 Features  
 
