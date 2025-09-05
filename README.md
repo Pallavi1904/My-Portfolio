@@ -13,22 +13,23 @@ You can visit it live here: 👉 [My Portfolio](https://pallaviakolkar-portfolio
 ![Home Screenshot](Images/ss1.png)  
 
 ### 🙋 About Me  
-![About Screenshot](screenshots/about.png)  
+![About Screenshot](Images/ss2.png)  
 
 ### 📂 Projects Showcase  
-![Projects Screenshot](screenshots/projects.png)  
+![Projects Screenshot](Images/ss3.png)  
+![Projects Screenshot](Images/ss4.png) 
 
 ### 🎓 Education Timeline  
-![Education Screenshot](screenshots/education.png)  
+![Education Screenshot](Images/ss5.png)  
 
 ### 🏆 Achievements & Certificates  
-![Achievements Screenshot](screenshots/achievements.png)  
+![Achievements Screenshot](Images/ss6.png)  
 
 ### 💼 Experience  
-![Experience Screenshot](screenshots/experience.png)  
+![Experience Screenshot](Images/ss7.png)  
 
 ### 📬 Contact Section  
-![Contact Screenshot](screenshots/contact.png)  
+![Contact Screenshot](Images/ss8.png)  
 
 ---
 
