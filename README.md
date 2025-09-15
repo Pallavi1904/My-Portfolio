@@ -7,7 +7,7 @@ You can visit it live here: 👉 [My Portfolio](https://pallaviakolkar-portfolio
 
 ---
 
-## 📸 Preview   
+## 📸 Preview 
 
 ### 🏠 Home Section  
 ![Home Screenshot](Images/ss1.png)  
